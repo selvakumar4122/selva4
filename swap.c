@@ -8,5 +8,4 @@ void main()
     n=m;
     m=t;
     printf("%d\t%d",n,m);
-    printf("Thank you");
 }
